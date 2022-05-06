@@ -1,1 +1,1 @@
-print("namaskar")
+print("namaskar humsqwe")
